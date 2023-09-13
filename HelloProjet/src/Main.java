@@ -9,6 +9,6 @@ public class Main {
         System.out.println("toligaduo");
         System.out.println("toligad11111555uo");
         System.out.println("toligad11111555uo9999");
-        System.out.println("to5555555555559999");
+        System.out.println("test");
     }
 }
